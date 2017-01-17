@@ -1,3 +1,3 @@
 # ctask2
 c graphic task of alarm clock
-Attention:input number ending with enter(or space) to set an alarm.
+please input number of second ending with space(or enter)to set an alarm.
