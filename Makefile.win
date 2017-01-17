@@ -1,4 +1,4 @@
-# Project: test
+# Project: ÏîÄ¿2
 # Makefile created by Dev-C++ 5.10
 
 CPP      = g++.exe -D__DEBUG__
@@ -6,10 +6,10 @@ CC       = gcc.exe -D__DEBUG__
 WINDRES  = windres.exe
 OBJ      = main.o acllib.o
 LINKOBJ  = main.o acllib.o
-LIBS     = -static-libgcc -mwindows "../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libwinmm.a" "../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libmsimg32.a" "../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libkernel32.a" "../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libuser32.a" "../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libgdi32.a" "../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libole32.a" "../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/liboleaut32.a" "../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libuuid.a" -g3
+LIBS     = -static-libgcc -mwindows "../../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libwinmm.a" "../../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libmsimg32.a" "../../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libkernel32.a" "../../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libuser32.a" "../../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libgdi32.a" "../../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libole32.a" "../../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/liboleaut32.a" "../../../../../Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib/libuuid.a" -g3
 INCS     = 
 CXXINCS  = 
-BIN      = test.exe
+BIN      = clock.exe
 CXXFLAGS = $(CXXINCS) -g3
 CFLAGS   = $(INCS) -g3
 RM       = rm.exe -f
